@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Stack/1.0.0": {
+        "dependencies": {
+          "Vjezba4": "1.0.0"
+        },
+        "runtime": {
+          "Stack.dll": {}
+        }
+      },
+      "Vjezba4/1.0.0": {
+        "runtime": {
+          "Vjezba4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vjezba4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

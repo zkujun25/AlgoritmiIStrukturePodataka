@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Vjezba_5\Stack.csproj", "{14C12715-7263-4D58-8D3D-8219382AD1D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vjezba4", "..\SingleList\Vjezba4\Vjezba4.csproj", "{E6F198BD-EDEA-4990-8574-A01345EA5155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{D08EF79E-C587-4CF5-BD20-1BADBE9DC668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C12715-7263-4D58-8D3D-8219382AD1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C12715-7263-4D58-8D3D-8219382AD1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C12715-7263-4D58-8D3D-8219382AD1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C12715-7263-4D58-8D3D-8219382AD1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6F198BD-EDEA-4990-8574-A01345EA5155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F198BD-EDEA-4990-8574-A01345EA5155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F198BD-EDEA-4990-8574-A01345EA5155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F198BD-EDEA-4990-8574-A01345EA5155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08EF79E-C587-4CF5-BD20-1BADBE9DC668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08EF79E-C587-4CF5-BD20-1BADBE9DC668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08EF79E-C587-4CF5-BD20-1BADBE9DC668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08EF79E-C587-4CF5-BD20-1BADBE9DC668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422503BC-A345-486D-9426-5AC2DD99DE1F}
+	EndGlobalSection
+EndGlobal
